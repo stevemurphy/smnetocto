@@ -1,4 +1,29 @@
-## What is Octopress?
+# This is the data and code for my Octopress blog
+
+Originally a [Jekyll](:http://github.com/mojombo/jekyll) blog, I've now migrated it to [Octopress](http://octopress.org). See below for further details on Octopress.
+
+As to why, I'll leave it as an exercise for the reader to work out why jekyll is good and why Octopress is better (hint: start at [Octopress.org](http://octopress.org); after that, Google is your friend).
+
+# License (the blog)
+
+The following directories and their contents are copyright Stephen Murphy:
+
+* _posts/
+* _drafts/
+
+The material in these directories is licensed under a [Creative Commons Attribution-Noncommercial-No Derivative Works 2.5 Australia License](http://creativecommons.org/licenses/by-nc-nd/2.5/au/). Permissions beyond the scope of this license may be available -- please [contact me](http://www.contactify.com/34fd7) for such permission. 
+
+Code for this site, including HTML and CSS, is derived directly or indirectly from [Jekyll](http://github.com/mojombo/jekyll) and [Octopress](http://github.com/imathis/octopress). You should check the licensing information for those items before you make use of them -- see below for more on Octopress.
+
+The material in all other directories (including the *images* folder) are copyright their respective authors.
+
+It is your responsibility to confirm your right to use any material in these directories.
+
+# Octopress
+
+From the Octopress README...
+
+## What is Octopress? ##
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
 
