@@ -5,6 +5,7 @@ categories: blogging
 ---
 
 As much as I enjoy playing with puters and stuff, sometimes I just want it to be easy -- easy enough that anybody could do whatever. Say, upgrade a website.
+<!--more-->
 
 There was quite a bit of Twitter chat a few days ago about the pain people were experiencing upgrading Wordpress to version 2.6. Little problems like completely broken and inaccesible sites with no admin access or hope of repairing things. Well, dear non-readers, you know this site is not exactly mission-critical (even if I had a mission nothing about this would be critical)...However, I didn't want to break it just the same, so held off the upgrade.
 

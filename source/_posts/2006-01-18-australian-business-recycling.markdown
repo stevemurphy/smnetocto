@@ -11,6 +11,7 @@ categories:
 As electronic goods and appliances get cheaper, they also seem to fail faster. And while they might be cheaper to buy, there is a hidden cost: repairs are often not cost effective (because component-level repairs aren't done anymore), and so we end up buying whole new items every two or three years.
 
 More than the hit to the hip-pocket, what disturbs me is the environmental cost. Looking at the DVD player that no longer works and which is not worth repairing, I can't help but see the manufacturing effort that went into making this unit, as well as the heavy metals and plastics that will most likely end up in landfill.
+<!--more-->
 
 I know that in some parts of the world it is now possible to recycle such items, but searching for a similar facility in Australia proved fruitless.
 

@@ -1,6 +1,6 @@
 # This is the data and code for my Octopress blog
 
-Originally a [Jekyll](:http://github.com/mojombo/jekyll) blog, I've now migrated it to [Octopress](http://octopress.org). See below for further details on Octopress.
+Originally a [Jekyll](http://github.com/mojombo/jekyll) blog, I've now migrated it to [Octopress](http://octopress.org). See below for further details on Octopress.
 
 As to why, I'll leave it as an exercise for the reader to work out why jekyll is good and why Octopress is better (hint: start at [Octopress.org](http://octopress.org); after that, Google is your friend).
 

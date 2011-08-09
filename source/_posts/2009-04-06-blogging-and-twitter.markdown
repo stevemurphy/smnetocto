@@ -4,11 +4,12 @@ title: Blogging and Twitter
 categories: blogging
 ---
 
-*Note: This post was written shortly after I started a [Marley](http://www.restafari.org/introducing-marley.html) [version of this blog](http://blog.stevemurphy.biz/). It may have been the only post I wrote specifically for that site -- development on Marley basically stopped, and I had some problems with hosting the Sinatra-based site which randomly prevented it from loading. Consequently I moved to this [jekyll](http://github.com/mojombo/jekyll) version of the site, with the same general aims: writing in a text editor, authoring in markdown, versioning in git, using a static site for speed, and avoiding the security/update hell of platforms such as WordPress. Where I refer to renaming the site in this post, it was the renaming of that version as "Steve Murphy: Infrequent Blogger". Still pretty accurate.*
+*Note: This post was written shortly after I started a [Marley](http://www.restafari.org/introducing-marley.html) [version of this blog](http://blog.stevemurphy.biz/). It may have been the only post I wrote specifically for that site -- development on Marley basically stopped, and I had some problems with hosting the Sinatra-based site which randomly prevented it from loading. Consequently I migrated to a [jekyll](http://github.com/mojombo/jekyll) version of the site, then to this [Octopress](http://octopress.org) version. These moves were made with the same general aims: writing in a text editor, authoring in markdown, versioning in git, using a static site for speed, and avoiding the security/update hell of platforms such as WordPress. Where I refer to renaming the site in this post, it was the renaming of the Marley version as "Steve Murphy: Infrequent Blogger". Still pretty accurate.*
 
 - - -
 
 Clearly I've been really bad at keeping my blog up-to-date. Even for me that is. The few posts that are published here definitely have large time gaps between them (hence my renaming of the site). In fact, I'm sure I could lay claim to being the world's worst blogger, based on the fact that I have not just this site, but a number of others that are equally neglected.
+<!--more--> 
 
 The real issue is not publishing, but that my blog output does not match the frequency with which I think of things to blog about. I enjoy writing, I really do want to blog often and I have lots to write about; it's just that the posts don't happen. 
 

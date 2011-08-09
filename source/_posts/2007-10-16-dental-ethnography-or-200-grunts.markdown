@@ -11,6 +11,7 @@ I arrive at the dentist. The receptionist looks up, “can I help you, sir?”
 “Thanks, just take a seat”.
 
 Thirty minutes later, I come back to the same receptionist, and she looks at me with the same “can I help you?” face.
+<!--more-->
 
 “Mm usss inish ish octa awden....oo i nee oo oo emythim?”
 
