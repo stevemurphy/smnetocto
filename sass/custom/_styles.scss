@@ -3,6 +3,11 @@
 
 // Over-ride Fonts
 
+.heading {
+  font-family: "Gentium Basic", "Georgia", "Helvetica Neue", Arial, sans-serif;
+}
+.serif { font-family: "Gentium Basic", Georgia, Times, "Times New Roman", serif; }
+.sans { font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif; }
 body {
-  font-size: .95em; line-height: 1.45em;
+  font-size: 1em; line-height: 1.45em;
 }
